@@ -3,4 +3,5 @@
 pppp
 hello
 add a branch B
-feature C
+feature 
+test if diff works
